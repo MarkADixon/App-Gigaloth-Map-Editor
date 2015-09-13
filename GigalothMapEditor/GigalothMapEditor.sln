@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigalothMapEditor", "GigalothMapEditor\GigalothMapEditor\GigalothMapEditor.csproj", "{C39269C3-822A-4388-9FDE-4F1FE446130A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigalothMapEditorContent", "GigalothMapEditor\GigalothMapEditorContent\GigalothMapEditorContent.contentproj", "{EE4D84AB-A516-494D-BD79-A214DD47C4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallaxEngine", "GigalothMapEditor\GigalothMapEditor\ParallaxEngine\ParallaxEngine.csproj", "{682524ED-E213-4A89-AACD-0B76785D7271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39269C3-822A-4388-9FDE-4F1FE446130A}.Debug|x86.ActiveCfg = Debug|x86
+		{C39269C3-822A-4388-9FDE-4F1FE446130A}.Debug|x86.Build.0 = Debug|x86
+		{C39269C3-822A-4388-9FDE-4F1FE446130A}.Release|x86.ActiveCfg = Release|x86
+		{C39269C3-822A-4388-9FDE-4F1FE446130A}.Release|x86.Build.0 = Release|x86
+		{EE4D84AB-A516-494D-BD79-A214DD47C4C0}.Debug|x86.ActiveCfg = Debug|x86
+		{EE4D84AB-A516-494D-BD79-A214DD47C4C0}.Release|x86.ActiveCfg = Release|x86
+		{682524ED-E213-4A89-AACD-0B76785D7271}.Debug|x86.ActiveCfg = Debug|x86
+		{682524ED-E213-4A89-AACD-0B76785D7271}.Debug|x86.Build.0 = Debug|x86
+		{682524ED-E213-4A89-AACD-0B76785D7271}.Release|x86.ActiveCfg = Release|x86
+		{682524ED-E213-4A89-AACD-0B76785D7271}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

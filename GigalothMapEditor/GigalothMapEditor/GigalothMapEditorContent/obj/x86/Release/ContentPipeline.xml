@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Moire.spritefont</Source>
+      <Name>Fonts\Moire</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Fonts\Moire.xnb</Output>
+      <Time>2012-03-20T05:35:20.5680975-06:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultTextures\grid.png</Source>
+      <Name>defaultTextures\grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\defaultTextures\grid.xnb</Output>
+      <Time>2012-03-20T06:21:56.6920266-06:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultTextures\outline.png</Source>
+      <Name>defaultTextures\outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\defaultTextures\outline.xnb</Output>
+      <Time>2012-03-26T02:34:11.2065389-06:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultTextures\Titlebackground.png</Source>
+      <Name>defaultTextures\Titlebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\defaultTextures\Titlebackground.xnb</Output>
+      <Time>2012-04-02T13:26:07.6023343-06:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultTextures\highlight.png</Source>
+      <Name>defaultTextures\highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\defaultTextures\highlight.xnb</Output>
+      <Time>2012-03-26T02:58:21.570495-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fruit\fruits.png</Source>
+      <Name>Textures\Fruit\fruits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Fruit\fruits.xnb</Output>
+      <Time>2012-04-02T16:31:00.3351477-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Veggies\veggies.png</Source>
+      <Name>Textures\Veggies\veggies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Veggies\veggies.xnb</Output>
+      <Time>2012-04-02T16:31:15.4639159-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassTerrain.png</Source>
+      <Name>Textures\World1\GrassTerrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\GrassTerrain.xnb</Output>
+      <Time>2012-04-02T16:32:56.4156852-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassDeco.png</Source>
+      <Name>Textures\World1\GrassDeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\GrassDeco.xnb</Output>
+      <Time>2012-04-02T16:33:02.8739798-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\Hills.png</Source>
+      <Name>Textures\World1\Hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\Hills.xnb</Output>
+      <Time>2012-04-02T16:33:08.346237-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\BushLarge.png</Source>
+      <Name>Textures\World1\BushLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\BushLarge.xnb</Output>
+      <Time>2012-04-02T16:33:21.8308643-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\BushMed.png</Source>
+      <Name>Textures\World1\BushMed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\BushMed.xnb</Output>
+      <Time>2012-04-02T16:33:26.7150934-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\BushSmall.png</Source>
+      <Name>Textures\World1\BushSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\BushSmall.xnb</Output>
+      <Time>2012-04-02T16:33:31.6893322-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassSky.png</Source>
+      <Name>Textures\World1\GrassSky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\GrassSky.xnb</Output>
+      <Time>2012-04-02T16:33:44.3779313-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassSkyNight.png</Source>
+      <Name>Textures\World1\GrassSkyNight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\GrassSkyNight.xnb</Output>
+      <Time>2012-04-02T16:33:50.7482209-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\GrassSkySunset.png</Source>
+      <Name>Textures\World1\GrassSkySunset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\GrassSkySunset.xnb</Output>
+      <Time>2012-04-02T16:33:59.3816053-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cannon\Barrel.png</Source>
+      <Name>Textures\Cannon\Barrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Cannon\Barrel.xnb</Output>
+      <Time>2012-04-02T17:35:56.4665864-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\1x1Blocks.png</Source>
+      <Name>Textures\Blocks\1x1Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Blocks\1x1Blocks.xnb</Output>
+      <Time>2012-04-02T17:00:33.6821701-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\2x2Blocks.png</Source>
+      <Name>Textures\Blocks\2x2Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Blocks\2x2Blocks.xnb</Output>
+      <Time>2012-04-02T17:00:38.1714269-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x1Blocks.png</Source>
+      <Name>Textures\Blocks\4x1Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Blocks\4x1Blocks.xnb</Output>
+      <Time>2012-04-02T17:00:47.0159327-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x2Blocks.png</Source>
+      <Name>Textures\Blocks\4x2Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Blocks\4x2Blocks.xnb</Output>
+      <Time>2012-04-02T17:00:52.5612499-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blocks\4x4Blocks.png</Source>
+      <Name>Textures\Blocks\4x4Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\Blocks\4x4Blocks.xnb</Output>
+      <Time>2012-04-02T17:00:57.6355401-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World1\AniSunflower.png</Source>
+      <Name>Textures\World1\AniSunflower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\Textures\World1\AniSunflower.xnb</Output>
+      <Time>2012-04-02T17:03:18.3535888-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditorContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bauer\Documents\Visual Studio 2010\Projects\GigalothMapEditor\GigalothMapEditor\GigalothMapEditor\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-30T22:19:08.6974741-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
